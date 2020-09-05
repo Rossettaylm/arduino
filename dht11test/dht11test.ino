@@ -1,3 +1,5 @@
+// 利用lcd1602显示DHT11的到的数据
+
 #include <dht11.h> 
 #include <LiquidCrystal.h> 
 #define DHT11PIN 8        //设置DHT11数据传输引脚为8                                    
